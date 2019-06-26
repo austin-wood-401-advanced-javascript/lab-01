@@ -2,6 +2,7 @@
 
 let greet = module.exports = {};
 
-greet.greeting = function(str) { 
-  console.log('Hello, ', str, '!');
+greet.greet = function(str) { 
+  if(typeof str !== 'string'){ return null;}
+  console.log(`hello ${str}`);
 };
