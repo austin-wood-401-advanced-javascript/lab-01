@@ -5,8 +5,8 @@
 ### Author: Austin Wood
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
+* [submission PR](https://github.com/austin-wood-401-advanced-javascript/lab-01/pull/1)
+* [travis]([![Build Status](https://travis-ci.com/austin-wood-401-advanced-javascript/lab-01.svg?branch=master)](https://travis-ci.com/austin-wood-401-advanced-javascript/lab-01))
 * [back-end](http://xyz.com) (when applicable)
 * [front-end](http://xyz.com) (when applicable)
 
