@@ -19,6 +19,7 @@
 
 const greet = require('./lib/greet.js');
 const math = require('./lib/arithmetic.js');
-console.log(greet.greeting('JOHN'));
-console.log(math.add(1,3)); // 4
-console.log(math.subtract(1,3)); // -2 
+let arr = [2,4,5,7,9];
+// console.log(greet.greeting('JOHN'));
+console.log(math.add(arr)); // 4
+// console.log(math.subtract(1,3)); // -2 
